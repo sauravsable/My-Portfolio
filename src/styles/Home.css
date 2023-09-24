@@ -49,8 +49,9 @@
   }
   
   .skills .list {
+    padding-left: 0;
     list-style: none;
-    width: 60%;
+    width: 80%;
   }
   
   .list span {
